@@ -3,4 +3,5 @@
 int main(){
 
     printf("Hello hank!!!!\n");
+    int i;
 }
